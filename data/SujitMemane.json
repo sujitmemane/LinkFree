@@ -1,0 +1,24 @@
+{
+  "name": "Sujit Memane",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Web 🕸️ Developer 🏗️ | Sharing Knowledge 🚀 | Cinephile  🎥 | Blogger 👨‍💻 and Tweetaholic 🐦",
+  "avatar": "https://avatars.githubusercontent.com/u/114643903?s=40&v=4g",
+   "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/iAmSujitMemane",
+      "icon": "FaTwitter"
+    },
+     {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/sujitmemane/",
+      "icon": "FaInstagram"
+    },
+       {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/sujit-memane-4704b01b0/",
+      "icon": "FaLinkedin"
+    },
+  ]
+}
